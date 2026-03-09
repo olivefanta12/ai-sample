@@ -15,5 +15,9 @@ public class UserRequest {
         private String username;
         private String password;
         private String email;
+        private String postcode;
+        private String address;
+        private String detailAddress;
+        private String extraAddress;
     }
 }
